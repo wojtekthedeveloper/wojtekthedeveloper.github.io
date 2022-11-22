@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wojtek the developer</title>
+    <link>https://wojtekthedeveloper.github.io/</link>
+    <description>Recent content on Wojtek the developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Nov 2022 21:21:05 +0100</lastBuildDate><atom:link href="https://wojtekthedeveloper.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>https://wojtekthedeveloper.github.io/posts/mypost/</link>
+      <pubDate>Tue, 22 Nov 2022 21:21:05 +0100</pubDate>
+      
+      <guid>https://wojtekthedeveloper.github.io/posts/mypost/</guid>
+      <description>Hello world First post Looks like fun int main() { return 0; } </description>
+    </item>
+    
+  </channel>
+</rss>
